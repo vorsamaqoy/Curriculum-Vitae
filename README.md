@@ -22,7 +22,7 @@ Attualmente ricercatore presso il CNR, sviluppo modelli predittivi interpretabil
 ---
 
 📄 **Download CV (PDF)**  
-[CV_Vincenzo_Vigna.pdf](CV_Vincenzo_Vigna.pdf)
+[cv_github.pdf](cv_github.pdf)
 
 ---
 
