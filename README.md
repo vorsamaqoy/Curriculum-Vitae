@@ -1,7 +1,7 @@
 # Curriculum Vitae
 # 👋 Vincenzo Vigna — Data Scientist
 
-<img src="CV_Vincenzo_Vigna.png" alt="CV Vincenzo Vigna" width="100%"/>
+<img src="cv_github-1.png" alt="CV Vincenzo Vigna" width="100%"/>
 
 ---
 
